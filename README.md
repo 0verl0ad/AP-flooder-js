@@ -24,4 +24,4 @@ Tener la interfaz en modo monitor:
         airmon-ng start <INTERFAz>
         
 
-Nota: para ejecutar AP-Flooder es necesario tener privilegios de root (usar su)
+Nota: para ejecutar AP-Flooder es necesario tener privilegios de root (usar sudo)
